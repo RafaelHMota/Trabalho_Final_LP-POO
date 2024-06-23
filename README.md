@@ -20,6 +20,10 @@ Este é um projeto para a implementação de um sistema de vendas em java com in
 - Seleção dos metodos de pagamento: Pix, Crédito ou Débito.
 - Finalizar a compra.
 
+### Diagrama de Classes
+![cacaki drawio](https://github.com/Hemoni/Trabalho_Final_LP-POO/assets/145055452/e21bf077-32f9-4f59-b5fc-b466e5f5543e)
+
+
 ### Funcionamento do Código
 
 - A aplicação funciona a partir de várias classes e métodos: `TelaLogin`, `TelaCadastro`, `TelaVendas`, `Item`, `Pagamento`
@@ -27,8 +31,16 @@ Este é um projeto para a implementação de um sistema de vendas em java com in
 - O código utiliza a biblioteca `Swing`
 
 ### Video de Demonstração
-Abaixo tem um video demonstrando o funcionamento da aplicação:
+Abaixo tem um video demonstrando o funcionamento da aplicação
 
-https://github.com/RafaelHMota/Trabalho_Final_LP-POO/assets/144626992/02a907e4-a119-4770-a03f-1a99f61a0ec3
+https://github.com/Hemoni/Trabalho_Final_LP-POO/assets/145055452/49351ccd-6d8c-492d-8816-74d78fb09549
 
-
+### Como Rodar a API
+- Certifique-se de ter o JDK (Java Development Kit) instalado em sua máquina.
+- Cerfifique-se de ter o IntellijIdea Ultimate e o banco de dados MySQL em sua maquina.
+- Copie este repositório.
+- Importe o projeto no intellijIdea.
+- Compile o código-fonte.
+- Execute a classe TelaLogin para iniciar o sistema.
+- Faça login com as credenciais apropriadas ou crie uma nova conta.
+- Explore a vitrine de produtos, adicione itens ao carrinho, realize o pagamento e divirta-se fazendo compras.
