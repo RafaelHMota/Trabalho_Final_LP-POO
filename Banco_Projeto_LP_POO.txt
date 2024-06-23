@@ -1,0 +1,32 @@
+CREATE DATABASE db_senhas;
+
+USE db_senhas;
+
+CREATE TABLE dados_senhas(
+id int auto_increment not null primary key ,
+usuario varchar(45) not null,
+email varchar(45) not null,
+senha varchar(45) not null);
+
+INSERT INTO dados_senhas (usuario, email, senha, CPF, CNPJ) values ('teste','teste.teste@gmail.com', 'teste',Null, 'testecnpj');
+
+INSERT INTO dados_senhas (usuario, email, senha, CPF, CNPJ) values ('teste','teste.teste@gmail.com', 'teste','testcpf', Null);
+
+ALTER TABLE dados_senhas
+    ADD COLUMN CPF int(11);
+
+ALTER TABLE dados_senhas
+    ADD COLUMN CNPJ int(20);
+
+ALTER TABLE dados_senhas
+    MODIFY COLUMN CPF VARCHAR(20);
+
+ALTER TABLE dados_senhas
+    MODIFY COLUMN CNPJ VARCHAR(20);
+
+
+SELECT *FROM dados_senhas;
+
+CHECK TABLE dados_senhas;
+
+TRUNCATE TABLE dados_senhas;
