@@ -33,8 +33,6 @@ Este é um projeto para a implementação de um sistema de vendas em java com in
 ### Video de Demonstração
 Abaixo tem um video demonstrando o funcionamento da aplicação
 
-https://github.com/Hemoni/Trabalho_Final_LP-POO/assets/145055452/49351ccd-6d8c-492d-8816-74d78fb09549
-
 ![GIF](https://github.com/RafaelHMota/Trabalho_Final_LP-POO/assets/144626992/cee7c927-59a6-487b-8c5f-9a7657f06cf2)
 
 ### Como Rodar a API
