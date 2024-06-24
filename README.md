@@ -44,3 +44,7 @@ Certifique-se de ter o JDK (Java Development Kit) instalado em sua máquina.
 - Execute a classe TelaLogin para iniciar o sistema.
 - Faça login com as credenciais apropriadas ou crie uma nova conta.
 - Explore a vitrine de produtos, adicione itens ao carrinho, realize o pagamento e divirta-se fazendo compras.
+
+
+https://github.com/Hemoni/Trabalho_Final_LP-POO/assets/145055452/49351ccd-6d8c-492d-8816-74d78fb09549
+
